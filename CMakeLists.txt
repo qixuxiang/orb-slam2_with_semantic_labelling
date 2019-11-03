@@ -276,8 +276,6 @@ ${PROJECT_SOURCE_DIR}/Thirdparty/g2o/lib/libg2o.so
 ${PROJECT_SOURCE_DIR}/Thirdparty/darknet/build/libYOLOv3SE.so
 /usr/local/cuda/lib64/libcudnn.so
 ${PCL_LIBRARIES}
-#openni
-${OPENNI_LIB_DIR}/libOpenNI2.so
 m
 dl
 pthread
